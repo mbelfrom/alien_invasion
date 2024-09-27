@@ -1,0 +1,21 @@
+{
+    "cSpell.words": [
+        "blit",
+        "blitme",
+        "centerx",
+        "collidepoint",
+        "FULLSCREEN",
+        "groupcollide",
+        "highscore",
+        "KEYDOW",
+        "KEYDOWN",
+        "keypresses",
+        "KEYUP",
+        "midbottom",
+        "midtop",
+        "MOUSEBUTTONDOWN",
+        "pygame",
+        "scorekeeping",
+        "spritecollideany"
+    ]
+}
